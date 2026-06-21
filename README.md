@@ -21,7 +21,7 @@ The bet: a system that takes an objective, splits it across roles, does the real
 
 ## Where this is going
 
-The arc is one line — ship a single agent to production with evals that hold (Fieldstone), then build the system that runs many of them reliably (AJO). I am most useful where an AI agent has to leave the demo and survive contact with real users: getting it deployed, measured, and trustworthy enough to run on its own. That is the work I want more of.
+The arc is one line — ship a single agent to production with evals that hold (Fieldstone), then build the system that runs many of them reliably (AJO). I am most useful where an AI agent has to leave the demo and survive contact with real users: getting it deployed, measured, and trustworthy enough to run on its own.
 
 ## Stack
 
