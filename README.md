@@ -25,7 +25,15 @@ The arc is one line — ship a single agent to production with evals that hold (
 
 ## Stack
 
-Anthropic Claude (Opus / Sonnet / Haiku), Anthropic SDK, tool use, RAG, LLM-as-judge evals. Node.js, TypeScript, Next.js, Make.com, Vercel, Cloudflare Workers, Claude Code. I pick the model per task and measure whether the output is right.
+**AI / LLM** — Anthropic Claude (Opus / Sonnet / Haiku), Anthropic SDK direct, Claude Code. Prompt engineering, Skills with extended thinking, tool use, RAG, embeddings (Voyage), LLM-as-judge evals, MCP. Multi-model routing across Claude, Perplexity, and Grok, picked per task.
+
+**Backend / infra** — Python, Node.js, TypeScript, Next.js. Cloudflare Workers (KV, D1, Durable Objects), Vercel, Netlify. SQLite, MongoDB Atlas, REST APIs, webhooks, PWAs and service workers.
+
+**Tooling / discipline** — Git/GitHub, Make.com, scheduled jobs, Datasette, pytest, pre-commit. I measure whether the output is right, not whether the run finished.
+
+**Hardware / product** — Shapr3D CAD, cross-functional leadership across PCB and firmware.
+
+**Customer / support** — Zendesk, Salesforce Service Cloud, escalation and de-escalation.
 
 ---
 
