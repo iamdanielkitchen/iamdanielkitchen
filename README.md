@@ -15,7 +15,13 @@ Founder-operator for 20 years at The Diffusion Co. — I ran multi-vendor produc
 
 ## What I am building now
 
-**AJO** — a message bus that runs a fleet of Claude agents as one system: 18 projects, 85 roles, one router, and a quality layer that scores whether the work was *actually* done. The goal is autonomous coordination that produces correct output — not a human in the loop.
+**AJO** — a message bus that runs a fleet of Claude agents as one system: 18 projects, 85 roles, one router. It is built in layers — campaign planning, per-role memory pushed at spawn, a quality judge that scores whether the work was *actually* done, and a quarantined boundary for untrusted outside input — each one inert by default and gated behind a human-approved pilot.
+
+The bet: a system that takes an objective, splits it across roles, does the real work, hands off, and checks its own output — autonomous coordination with no human in the loop. The objective is swappable; the coordination is the product. When it runs, it turns one operator into a fleet.
+
+## Where this is going
+
+The arc is one line — ship a single agent to production with evals that hold (Fieldstone), then build the system that runs many of them reliably (AJO). I am most useful where an AI agent has to leave the demo and survive contact with real users: getting it deployed, measured, and trustworthy enough to run on its own. That is the work I want more of.
 
 ## Stack
 
