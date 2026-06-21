@@ -2,6 +2,8 @@
 
 I build AI agents and ship them — Anthropic SDK direct, real evals, production deploys. Not demos.
 
+<a href="https://yonderrecipes.com"><img src="https://raw.githubusercontent.com/iamdanielkitchen/yonder/main/docs/yonder-home.png" alt="Yonder — a calibrated-novelty recipe app, live at yonderrecipes.com" width="420"></a>
+
 Founder-operator for 20 years at The Diffusion Co. — I ran multi-vendor product engagements end to end: scoping with external PCB and firmware contributors, validating designs, and driving each one from discovery to a shipped product, with 15+ years of customer-facing work underneath it. Now I do the same with LLMs as first-class components.
 
 ## What I have shipped
